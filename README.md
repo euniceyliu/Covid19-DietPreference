@@ -21,4 +21,8 @@ U.S. Bureau of Labor Statistics. 2021. “Unemployment Rates for States.” U.S.
 
 
 ## Output
-#### Paper
+#### Table 1: Univariate Descriptive Statistics of Google Trend Score for the term “vegetarian diet”, COVID-19  Rate, and Unemployment Rate
+#### Table 2: Within and Between Variation For Google Trend Score for “vegetarian diet”, COVID-19  Rate, Unemployment Rate
+#### Table 3: OLS, Random Effects, State Fixed Effects and State-Month Fixed Effects Regression Estimates Predicting Google Trend Score For Search of Vegetarian Diet
+#### Table 4: State-by-month Fixed Effects Predicting Google Trend Score For Search of Vegetarian Diet Before and Afer Controlling Unemployment Rate
+
