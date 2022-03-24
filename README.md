@@ -5,19 +5,20 @@ I present the following hypothesis:
 (1) State-level COVID-19 rate are positively associated with people’s preference for the vegetarian diet , controlling for the unemployment rate.
 (2) State-level unemployment rate will suppress the positive association between local COVID-19 rate and people’s preference for vegetarian diet.
 ## Data Sources
-### Google Trends Data targeting the keyword “vegetarian diet” among the 50 States and the District of Columbia: 
+#### Google Trends Data targeting the keyword “vegetarian diet” among the 50 States and the District of Columbia: 
 Google Trends. Retrieved November 1, 2021 (https://trends.google.com/trends/?geo=US).
 
-### State-level COVID-19 Data: 
+#### State-level COVID-19 Data: 
 New York Times. 2021. GitHub. Retrieved October 22, 2021 (https://github.com/nytimes/covid-19-data/blob/master/us-states.csv).
 
-### 2020 Census Data of the Resident Population for the 50 States, the District of Columbia, and Puerto Rico from the United States Census Bureau: 
+#### 2020 Census Data of the Resident Population for the 50 States, the District of Columbia, and Puerto Rico from the United States Census Bureau: 
 US Census Bureau. 2021. “2020 Census Apportionment Results.” Census.gov. Retrieved November 10, 2021 (https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html).
 
-### Unemployment Rates Data from U.S. Bureau of Labor Statistics: 
+#### Unemployment Rates Data from U.S. Bureau of Labor Statistics: 
 U.S. Bureau of Labor Statistics. 2021. “Unemployment Rates for States.” U.S. Bureau of Labor Statistics. Retrieved November 1, 2021 (https://www.bls.gov/web/laus/laumstrk.htm)
 
 ## Code
 
 
 ## Output
+#### Paper
