@@ -18,6 +18,9 @@ US Census Bureau. 2021. “2020 Census Apportionment Results.” Census.gov. Ret
 U.S. Bureau of Labor Statistics. 2021. “Unemployment Rates for States.” U.S. Bureau of Labor Statistics. Retrieved November 1, 2021 (https://www.bls.gov/web/laus/laumstrk.htm)
 
 ## Code
+#### [Recode Do File To Merge All Datasets, Compile Total Covid-19 Cases Per Month and Calculuate Covid-19 Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/code/covid%26diet_recode.do)
+
+#### [Analysis Do File For Running Fixed Effects and Random Effects Models](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/code/covid%26diet_analysis.do)
 
 
 ## Output
