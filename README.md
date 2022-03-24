@@ -18,17 +18,23 @@ US Census Bureau. 2021. “2020 Census Apportionment Results.” Census.gov. Ret
 U.S. Bureau of Labor Statistics. 2021. “Unemployment Rates for States.” U.S. Bureau of Labor Statistics. Retrieved November 1, 2021 (https://www.bls.gov/web/laus/laumstrk.htm)
 
 ## Code
-#### [Recode Do File To Merge All Datasets, Compile Total Covid-19 Cases Per Month and Calculuate Covid-19 Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/code/covid%26diet_recode.do)
+#### [Recode Do File](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/code/covid%26diet_recode.do):
+To Merge All Datasets, Compile Total Covid-19 Cases Per Month and Calculuate Covid-19 Rate
 
-#### [Analysis Do File For Running Fixed Effects and Random Effects Models](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/code/covid%26diet_analysis.do)
+#### [Analysis Do File](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/code/covid%26diet_analysis.do)
+To Run Fixed Effects and Random Effects Models
 
 
 ## Output
-#### [Table 1: Univariate Descriptive Statistics of Google Trend Score for the term “vegetarian diet”, COVID-19  Rate, and Unemployment Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table1_univariate_descriptive_statistics.pdf)
+#### [Table 1](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table1_univariate_descriptive_statistics.pdf)
+Univariate Descriptive Statistics of Google Trend Score for the term “vegetarian diet”, COVID-19  Rate, and Unemployment Rate
 
-#### [Table 2: Within and Between Variation For Google Trend Score for “vegetarian diet”, COVID-19  Rate, Unemployment Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table2_within_between_variation%20.pdf)
+#### [Table 2](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table2_within_between_variation%20.pdf)
+Within and Between Variation For Google Trend Score for “vegetarian diet”, COVID-19  Rate, Unemployment Rate
 
-#### [Table 3: OLS, Random Effects, State Fixed Effects and State-Month Fixed Effects Regression Estimates Predicting Google Trend Score For Search of Vegetarian Diet](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table3_regression_models.pdf)
+#### [Table 3](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table3_regression_models.pdf)
+OLS, Random Effects, State Fixed Effects and State-Month Fixed Effects Regression Estimates Predicting Google Trend Score For Search of Vegetarian Diet
 
-#### [Table 4: State-by-month Fixed Effects Predicting Google Trend Score For Search of Vegetarian Diet Before and Afer Controlling Unemployment Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table4_control_unemployment.pdf)
+#### [Table 4](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table4_control_unemployment.pdf)
+State-by-month Fixed Effects Predicting Google Trend Score For Search of Vegetarian Diet Before and Afer Controlling Unemployment Rate
 
