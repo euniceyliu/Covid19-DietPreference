@@ -26,15 +26,11 @@ To Run Fixed Effects and Random Effects Models
 
 
 ## Output
-#### [Table 1: Univariate Descriptive Statistics of Google Trend Score for the term “vegetarian diet”, COVID-19  Rate, and Unemployment Rate
-](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table1_univariate_descriptive_statistics.pdf)
+#### [Table 1: Univariate Descriptive Statistics of Google Trend Score for the term “vegetarian diet”, COVID-19  Rate, and Unemployment Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table1_univariate_descriptive_statistics.pdf)
 
-#### [Table 2: Within and Between Variation For Google Trend Score for “vegetarian diet”, COVID-19  Rate, Unemployment Rate
-](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table2_within_between_variation%20.pdf)
+#### [Table 2: Within and Between Variation For Google Trend Score for “vegetarian diet”, COVID-19  Rate, Unemployment Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table2_within_between_variation%20.pdf)
 
-#### [Table 3: OLS, Random Effects, State Fixed Effects and State-Month Fixed Effects Regression Estimates Predicting Google Trend Score For Search of Vegetarian Diet
-](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table3_regression_models.pdf)
+#### [Table 3: OLS, Random Effects, State Fixed Effects and State-Month Fixed Effects Regression Estimates Predicting Google Trend Score For Search of Vegetarian Diet](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table3_regression_models.pdf)
 
-#### [Table 4: State-by-month Fixed Effects Predicting Google Trend Score For Search of Vegetarian Diet Before and Afer Controlling Unemployment Rate
-](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table4_control_unemployment.pdf)
+#### [Table 4: State-by-month Fixed Effects Predicting Google Trend Score For Search of Vegetarian Diet Before and Afer Controlling Unemployment Rate](https://github.com/euniceyliu/Covid19-DietPreference/blob/main/output/table4_control_unemployment.pdf)
 
